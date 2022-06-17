@@ -8,7 +8,7 @@
         "@tensorflow/tfjs-node-gpu": "^1.2.8",
         "canvas": "^2.6.0",
         "express": "latest",
-        "jpeg-js": "^0.3.6",
+        "jpeg-js": "^0.4.4",
         "multer": "^1.4.2",
         "node-fetch": "^2.6.0",
         "node-pre-gyp": "^0.13.0"
